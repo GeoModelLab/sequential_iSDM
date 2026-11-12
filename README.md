@@ -1,4 +1,4 @@
-# Sequential iSDM
+nge # Sequential iSDM
 This repository stores the code used in the publication: **Integrating the temporal dimension in invasive species distribution modelling: a case study on *Halyomorpha halys*** (DOI: <tbc>) that introduces the sequential iSDM pipeline to produce species distribution models for invasive organisms.
 
 ## Citation
@@ -34,7 +34,7 @@ provides a temporal representation of how the estimated environmental niche chan
 ### 1. Clone the repository
 To clone this repository run the following code in a terminal in the desired location.
 ```
-git clone git@github.com:camalloo/sequential_iSDM.git
+git clone git@github.com:GeoModelLab/sequential_iSDM.git
 ```
 ### 2. Prepare the environment
 Source the `00_Environment.R` script to create all required folders and download the necessary libraries.
