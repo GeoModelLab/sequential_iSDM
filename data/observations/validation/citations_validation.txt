@@ -1,0 +1,12 @@
+When using this dataset please use the following citation and pay attention to the rights documented in rights.txt:
+Observation.org (2026). Observation.org, Nature data from around the World. Occurrence dataset https://doi.org/10.15468/5nilie accessed via GBIF.org on 2026-05-05.
+Vanreusel W, Swinnen K, Gielen K, Vercayie D, Driessens G, Veraghtert W, Desmet P, Herremans M (2026). Waarnemingen.be - Non-native animal occurrences in Flanders and the Brussels Capital Region, Belgium. Version 1.211. Natuurpunt. Occurrence dataset https://doi.org/10.15468/k2aiak accessed via GBIF.org on 2026-05-05.
+SLU Swedish Species Information Centre, Liljeblad J (2026). Artportalen. Version 92.468. SLU Artdatabanken. Occurrence dataset. https://www.gbif.se/ipt/resource?r=artdata&v=92.468 https://doi.org/10.15468/kllkyl accessed via GBIF.org on 2026-05-05.
+Terrestrial Heteroptera Recording Scheme (Shieldbugs & allied species) (2026). Shieldbug and allied species records, from iRecord. Occurrence dataset https://doi.org/10.15468/axiomi accessed via GBIF.org on 2026-05-05.
+ArtenFinder bei der Stiftung Natur und Umwelt RLP und der Stiftung Naturschutz Berlin. ArtenFinder. Occurrence dataset https://doi.org/10.15468/jnnald accessed via GBIF.org on 2026-05-05.
+naturgucker.de. NABU|naturgucker. Occurrence dataset https://doi.org/10.15468/uc1apo accessed via GBIF.org on 2026-05-05.
+Finnish Biodiversity Information Facility (2026). Finnish invasive species observations. Occurrence dataset https://doi.org/10.15468/7bwhuf accessed via GBIF.org on 2026-05-05.
+Finnish Biodiversity Information Facility (2026). Löydös Open Invasive Species Observations. Occurrence dataset https://doi.org/10.15468/x3yvv6 accessed via GBIF.org on 2026-05-05.
+iNaturalist contributors, iNaturalist (2026). iNaturalist Research-grade Observations. iNaturalist.org. Occurrence dataset https://doi.org/10.15468/ab3s5x accessed via GBIF.org on 2026-05-05.
+Questagame (2026). Earth Guardians Weekly Feed. Occurrence dataset https://doi.org/10.15468/slqqt8 accessed via GBIF.org on 2026-05-05.
+izeltlabuak.hu observers, izeltlabuak.hu (2026). izeltlabuak.hu observations validated to species level. izeltlabuak.hu. Occurrence dataset https://doi.org/10.15468/rsmdu9 accessed via GBIF.org on 2026-05-05.

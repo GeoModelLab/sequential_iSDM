@@ -1,0 +1,6 @@
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio01/1981-2010/CHELSA_bio01_1981-2010_V.2.1.tif 
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio04/1981-2010/CHELSA_bio04_1981-2010_V.2.1.tif 
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio07/1981-2010/CHELSA_bio07_1981-2010_V.2.1.tif 
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio12/1981-2010/CHELSA_bio12_1981-2010_V.2.1.tif 
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio15/1981-2010/CHELSA_bio15_1981-2010_V.2.1.tif 
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/hursmean/1981-2010/CHELSA_hursmean_1981-2010_V.2.1.tif 
